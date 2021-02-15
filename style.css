@@ -1,0 +1,18 @@
+#Contact a{
+   color: black;
+}
+
+#Contact a:hover{
+   color: blue;
+   text-decoration: underline;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+    text-decoration: underline;
+    font-size: 30px;
+}
